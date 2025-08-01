@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 Había una vez una adorable niña llamada Caperucita Roja. Vivía en un pequeño pueblo rodeado de colinas y flores. Un día soleado, su madre le dijo:
 
  "Caperucita, tu abuelita está enferma. ¿Podrías llevarle esta cesta llena de comida y medicinas?"
@@ -14,6 +17,13 @@ Caperucita asintió y comenzó su camino hacia la casa de su abuela, que se enco
 
 Caperucita Roja entra al bosque
 
+Mostrándose gentil y amigable, el lobo le preguntó a la niña:
+
+<<<<<<< HEAD
+“Hola pequeña niña, ¿cómo te llamas?”
+=======
+parte de criollo---
+Caperucita Roja entra al bosque
 Mostrándose gentil y amigable, el lobo le preguntó a la niña:
 
 “Hola pequeña niña, ¿cómo te llamas?”
@@ -37,9 +47,32 @@ Cuando el lobo llegó, golpeó la puerta y se hizo pasar por su nieta.
 "Abuelita, soy yo, Caperucita Roja. He venido a visitarte", dijo el lobo tratando de imitar la voz de la niña.
 
 La señora, que estaba en cama descansando, no sospechó nada y le dijo que entrara. Sin perder tiempo, el lobo se abalanzó sobre la abuelita y se la comió de un solo bocado.
+>>>>>>> cristian
+>>>>>>> fb7892beab2e41444ba44d17823cc236886b61a1
+
+La pequeña Caperucita contestó con su nombre, pero no se detuvo en ningún momento para hablar con él.
+
+"¡Pero pequeña Caperucita Roja! ¿A dónde vas con tanta prisa?", preguntó el lobo con una sonrisa traviesa.
+
+Caperucita se detuvo, y miró al lobo con cautela y desconfianza.
+
+"Voy a visitar a mi abuelita, que está enferma. Llevo comida y medicinas para ayudarla a sentirse mejor", respondió.
+
+El lobo, con malas intenciones, decidió aprovecharse de la situación.
+
+“Oh, qué amable eres, Caperucita. Pero, ¿sabes qué? Podrías recoger algunas flores frescas en el bosque para alegrar el día de tu abuelita. Te mostraré un camino más corto para que llegues más rápido”, dijo el lobo, señalando un sendero apartado.
+
+Caperucita, confiada y sin sospechas, siguió al lobo por el camino alternativo. Mientras caminaban, él se adelantó diciéndole que tenía que hacer un mandado y llegó antes que ella a la casa de la abuelita.
+
+Cuando el lobo llegó, golpeó la puerta y se hizo pasar por su nieta.
+
+"Abuelita, soy yo, Caperucita Roja. He venido a visitarte", dijo el lobo tratando de imitar la voz de la niña.
+
+La señora, que estaba en cama descansando, no sospechó nada y le dijo que entrara. Sin perder tiempo, el lobo se abalanzó sobre la abuelita y se la comió de un solo bocado.
 
 ----------------------------------------------------------------------------------
 
+>>>>>>> a4e8a7c073e158d761d9646a9d1b2967eedcfa46
 Cuando la niña finalmente llegó a la casa, tocó la puerta suavemente. El lobo, disfrazado con la ropa de la abuelita, respondió:
 
 "Pasa, querida Caperucita".
@@ -83,3 +116,5 @@ Juntos, el cazador, Caperucita y su abuelita se sentaron alrededor de la mesa y 
 
 Desde aquel día, Caperucita Roja aprendió una valiosa lección sobre la importancia de seguir las instrucciones de sus padres, no desviarse del camino y estar alerta ante posibles peligros.
 Caperucita, su abuelita y el cazador se convirtieron en grandes amigos y prometieron cuidarse mutuamente. Y así, vivieron felices y seguros, recordando siempre la valentía y la importancia de estar atentos en el bosque.
+=======
+
